@@ -1,15 +1,15 @@
 # Arreglo unidimensional
 # Contiene elementos=9, índice máximo=8
-arreglo_unidim=[1,2,3,4,5,6,7,8,9]
+arreglo_unidim = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 # Arreglo bidimensional 2x5
-arreglo_bidim=[
-    [1,2,3,4,5],
-    [6,7,8,9, 10]
+arreglo_bidim = [
+    [1, 2, 3, 4, 5],
+    [6, 7, 8, 9, 10]
 ]
 
 # Arreglo tridimensional 2x3x2
-arreglo_tridim=[
+arreglo_tridim = [
     [
         [1, 2],
         [3, 4],
@@ -23,7 +23,7 @@ arreglo_tridim=[
 ]
 
 # Arreglo multidimensional 2x3x2x4 (cuatro dimensiones)
-arreglo_multidim=[
+arreglo_multidim = [
     [
         [
             [11, 12, 13, 14],
